@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: mohan.balla
+Build-Jdk: 13.0.2
+Implementation-Title: sender
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.application
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/sender
+Created-By: Maven Integration for Eclipse
+
